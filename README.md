@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hola 👋
 
+Mi nombre es Antonio Guzmán, soy Frontend developer con ReatcJS utilizando javascript y typescript como lenguajes base. Soy estudiante de ingenieria de software en la Universidad Autónomo Metropolitana (UAM-C) Me apasiona el mundo del desarrollo web y cada día aprender algo nuevo, mi principal enfoque es crear aplicaciones de alto impacto en la sociedad, mis metas como desarrollador web es especializarme dentro del área fullstack ya sea en una empresa o startup que se ajuste a mis valores.
+
+- 🔭 Actualmente soy desarrollador frontend con React
+- 🌱 Aprendiendo React, Typescript, GraphQL y mucho más
+
+![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
 <!--
 **strcoder/strcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
